@@ -1,0 +1,137 @@
+body{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  width: 100%;
+  color: red;
+}
+.brand-color-1 {
+  color: #F4BC16;
+  font-weight: bolder;
+}
+
+.brand-color-2 {
+  color: blACK;
+  font-weight: bolder;
+}
+.navbar{
+  margin-bottom: 1rem;
+}
+.text-Contact{
+  font-family: 'Poppins', sans-serif;
+  width: 156px;
+height: 42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 42px;
+}
+
+.header-welocome-name{
+  position: absolute;
+width: 403px;
+height: 53px;
+left: 518px;
+top: 818px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 52px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000; 
+}
+
+.header-welocome-name-yellow{
+  position: absolute;
+width: 403px;
+height: 53px;
+left: 518px;
+top: 818px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 52px;
+/* identical to box height */
+
+text-align: center;
+
+color: #F4BC16;
+}
+
+.welcome-text{
+  position: absolute;
+width: 1273px;
+height: 165px;
+left: 100px;
+top: 886px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
+.welcome-text-yellow{
+  position: absolute;
+width: 1273px;
+height: 165px;
+left: 83px;
+top: 886px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 33px;
+
+color: #F4BC16;
+}
+
+.image-logo{
+  position: absolute;
+}
+
+.image-logo-car{
+  position: relative;
+  top:0;
+  bottom: 0;
+}
+
+.lady-image {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  }
+
+.lady-image-new {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+  }
+
+  .lady-image-new1 {
+    position: absolute;
+    top: 30%;
+    left: 90%;
+  }
+
+  .images {
+    position: relative;
+    }
+
+.experience-text{
+  position: absolute;
+  top: 30%;
+
+}
